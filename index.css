@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(img/hh.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+nav {
+    background-color: orangered;
+    padding-bottom: 12px;
+    text-align: center;
+    height: 30px;
+    border-bottom-left-radius: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom-right-radius: 30px;
+}
+
+nav ul li {
+    display: inline;
+    font-size: large;
+    padding: 34.0px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li:hover {
+    background-color: skyblue;
+}
+
+P {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: dotted;
+    color: blue;
+    padding-top: 20px;
+}
+
+strong {
+    color: blue;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+em {
+    color: paleturquoise;
+}
+
+.readmore {
+    position: center;
+    font-size: small;
+    color: red;
+    padding-top: 5px;
+}
+
+.readmore:hover {
+    background-color: red;
+}
+
+.container {
+    text-align: center;
+    color: orangered;
+    margin-top: 10%;
+    font-size: xx-large;
+}
+
+.container h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+footer {
+    text-align: center;
+    margin-top: 17.90%;
+}
+
+footer a {
+    text-decoration-line: none;
+    -moz-text-decoration-line: none;
+    color: chartreuse;
+}

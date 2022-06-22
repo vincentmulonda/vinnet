@@ -1,0 +1,17 @@
+body {
+    background-image: url(imgs/ocean3.jpg);
+    text-align: center;
+}
+
+li a {
+    color: orangered;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #0d0080;
+}

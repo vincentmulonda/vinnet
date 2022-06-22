@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(imgs/new.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+header {
+    background-color: royalblue;
+    text-align: center;
+}
+
+p {
+    font-size: 60px;
+    color: rgb(99, 226, 26);
+    text-align: center;
+}
+
+em {
+    color: rgb(255, 0, 85);
+    font-size: 100px;
+}
+
+.box-1 {
+    background-color: orangered;
+}
+
+form {
+    background-color: aquamarine;
+}
