@@ -8,6 +8,11 @@ body {
     background-position: center;
     background-size: cover;
     height: 100vh;
+    display:flex;
+    max-width:1440px;
+    margin:0 auto;
+    flex-direction:column;
+    
 }
 
 nav {
